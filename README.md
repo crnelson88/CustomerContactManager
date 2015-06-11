@@ -1,6 +1,8 @@
 # CustomerContactManager
 Customer Contact Manager
 
+Please update the ConnectionString in App.Config before attempting to run.
+
 When Application starts to run, customers can be added at the top of the first screen.
 
 All Customers van be viewed on the grid at the bottom. 
